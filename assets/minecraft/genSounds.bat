@@ -149,5 +149,46 @@ echo         "volume": 0.1,
 echo         "name": "scream.death"
 echo       }
 echo     ]
+echo   },
+echo   "entity.generic.explode": {
+echo     "replace": true,
+echo     "sounds": [
+echo       {
+echo         "type": "event",
+echo         "volume": 0.1,
+echo         "name": "scream.death"
+echo       }
+echo     ]
+echo   },
+echo   "entity.ghast.ambient": {
+echo     "replace": true,
+echo     "sounds": [
+echo       {
+echo         "type": "event",
+echo         "volume": 0.1,
+echo         "name": "scream.hurt"
+echo       }
+echo     ]
+echo   },
+echo   "entity.ghast.warn": {
+echo     "replace": true,
+echo     "sounds": [
+echo       {
+echo         "type": "event",
+echo         "volume": 0.1,
+echo         "name": "scream.hurt"
+echo       }
+echo     ]
+echo   },
+echo   "entity.ghast.scream": {
+echo     "replace": true,
+echo     "sounds": [
+echo       {
+echo         "type": "event",
+echo         "volume": 0.1,
+echo         "name": "scream.hurt"
+echo       }
+echo     ]
 echo   }
+
 echo }
