@@ -165,7 +165,7 @@ echo     "replace": true,
 echo     "sounds": [
 echo       {
 echo         "type": "event",
-echo         "volume": 0.1,
+echo         "volume": 0.01,
 echo         "name": "scream.hurt"
 echo       }
 echo     ]
@@ -175,7 +175,7 @@ echo     "replace": true,
 echo     "sounds": [
 echo       {
 echo         "type": "event",
-echo         "volume": 0.1,
+echo         "volume": 0.02,
 echo         "name": "scream.hurt"
 echo       }
 echo     ]
@@ -185,7 +185,7 @@ echo     "replace": true,
 echo     "sounds": [
 echo       {
 echo         "type": "event",
-echo         "volume": 0.1,
+echo         "volume": 0.02,
 echo         "name": "scream.hurt"
 echo       }
 echo     ]
